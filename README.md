@@ -1,6 +1,5 @@
 <!-- 타이틀 참고링크 https://github.com/kyechan99/capsule-render -->
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=190&text=Welcome%20to%20My%20GitHub!&fontAlign=50&fontAlignY=40&color=gradient)
-## 🙇 사회에 가치를 더하고자 하는 데이터 분석가, 홍용진입니다!
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
 <!-- https://simpleicons.org/ -->
