@@ -14,20 +14,7 @@
 ![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)<br>
 
-**📊 Top Langs**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoro279&layout=compact)
-<!-- https://github.com/anuraghazra/github-readme-stats#top-languages-card -->
-
-
-
-
-
-
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseoro279&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23B4DD61&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
-<!-- 참고링크 [https://github.com/kyechan99/capsule-render](https://hits.seeyoufarm.com/) -->
 
 <!--
 **seoro279/seoro279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
